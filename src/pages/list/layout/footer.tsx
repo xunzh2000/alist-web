@@ -10,7 +10,7 @@ const Footer = () => {
     <Center py="4" className="footer">
       <VStack>
         <HStack spacing="2" className="line0">
-          <Link isExternal href="https://github.com/Xhofe/alist">
+          <Link isExternal href="http://xunzh.cn">
             {t("Powered by {{project}}", { project: "Alist" })}
           </Link>
           <span>|</span>
